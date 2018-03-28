@@ -20,3 +20,7 @@ This is a UDF that will take a cell that has a date (with or without a time valu
 # Methodology
 
 The idea here is to start off with the largest unit (years) and work our way down to the smallest unit (seconds). If the difference in years is 0, for example, we move to finding out what the difference in months is and so on.
+
+# Blog Post
+
+You can find more info at a blog post [here](https://www.spreadsheetsmadeeasy.com/how-long-ago-function/).
